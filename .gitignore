@@ -10,4 +10,4 @@
 local.properties
 /thardware
 /thardwarenativewrapper
-/settings.gradle
+settings.gradle
