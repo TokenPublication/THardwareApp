@@ -40,4 +40,4 @@ dependencies {
 
 ## Documentation & Explanation
 
-Please refer to the HTML Java Documentation file located under javadoc/
+Please refer to the HTML Java Documentation file located under javadoc/index.html
