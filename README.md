@@ -6,7 +6,7 @@ Added SPI Socket Connector
 
 ## Getting Started
 
-1) To use THardware wrapper modify the $ROOT_PROJECT/build.gradle file
+1) To access the THardware lib, modify the $ROOT_PROJECT/build.gradle file
    (or possibly any config file that specifies repositories used in the project) as follows
    (Make sure you add the Token Repository before other repositories):
 
@@ -28,7 +28,7 @@ repositories {
 }
 ```
 
-2) To use THardware wrapper modify the app/build.gradle file as follows:
+2) To use THardware lib in the app module, add the following dependency to app/build.gradle file:
 
 ```groovy
 dependencies {
@@ -37,3 +37,7 @@ dependencies {
     
 }
 ```
+
+## Documentation & Explanation
+
+Please refer to the HTML Java Documentation file located under javadoc/
