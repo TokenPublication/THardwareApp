@@ -3,4 +3,5 @@
     <string name="spi_open">Spi open</string>
     <string name="spi_close">Spi close</string>
     <string name="spi_function">Spi function</string>
+    <string name="ej_function">EJ function</string>
 </resources>

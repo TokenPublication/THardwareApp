@@ -1,5 +1,15 @@
 pluginManagement {
     repositories {
+        maven {
+            name = "GithubPackages"
+
+            url = uri("https://maven.pkg.github.com/TokenPublicRepo/THardware")
+
+            credentials {
+                username = "TokenPublicRepo"
+                password = "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"
+            }
+        }
         gradlePluginPortal()
         google()
         mavenCentral()
@@ -8,6 +18,16 @@ pluginManagement {
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
+        maven {
+            name = "GithubPackages"
+
+            url = uri("https://maven.pkg.github.com/TokenPublicRepo/THardware")
+
+            credentials {
+                username = "TokenPublicRepo"
+                password = "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"
+            }
+        }
         google()
         mavenCentral()
     }
