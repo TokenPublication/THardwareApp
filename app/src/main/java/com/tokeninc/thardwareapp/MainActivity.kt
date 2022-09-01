@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.spi_function_button).setOnClickListener {
-            //
+            spiController.spiSend(ByteArray(10))
         }
 
         findViewById<Button>(R.id.spi_close_button).setOnClickListener {
