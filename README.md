@@ -15,16 +15,16 @@ repositories {
     maven {
         name = "GithubPackages"
 
-        url = uri("https://maven.pkg.github.com/TokenPublicRepo/THardware")
+        url = uri("https://maven.pkg.github.com/TokenPublication/THardwareApp")
 
         credentials {
-            username = "TokenPublicRepo"
-            password = "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"
+            username = "TokenPublication"
+            password = "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"
         }
     }
     
     mavenCentral()
-    ...
+    
 }
 ```
 
