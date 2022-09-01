@@ -19,7 +19,7 @@ repositories {
 
         credentials {
             username = "TokenPublication"
-            password = "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"
+            password = "INSERT_TOKEN_PUBLICATION_READ_REPO_TOKEN_HERE"
         }
     }
     
