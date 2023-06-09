@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">THardware</string>
+    <string name="spi_open">Spi open</string>
+    <string name="spi_close">Spi close</string>
+    <string name="spi_function">Spi function</string>
+    <string name="spi_get_fiscal_busy">Get fiscal busy</string>
+</resources>

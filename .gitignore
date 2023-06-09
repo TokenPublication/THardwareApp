@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/thardware
+/thardware330tr
+/thardwarenativewrapper
+settings.gradle
+/settings.gradle
